@@ -1,2 +1,2 @@
 # lista-4
-alguma coisa
+lista de exercicio do curso aprendendo js.
